@@ -44,10 +44,13 @@ In the EDA phase:
 - **Correlation plots** and **Random Forest Classification** were used for feature selection.  
 - Out of 17 features, five key variables were identified: **BMI, age, general health, physical health, and mental health**.
 
-![Graph Example](images/image2.png)
-![Graph Example](images/image3.png)
-![Graph Example](images/image4.png)
-![Graph Example](images/image5.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="images/image2.png" alt="Graph Example" width="500">
+  <img src="images/image3.png" alt="Graph Example" width="500">
+  <img src="images/image4.png" alt="Graph Example" width="500">
+  <img src="images/image5.png" alt="Graph Example" width="500">
+</div>
+
 
 ### Observations:
 1. BMI follows a **normal distribution** with a mean of 27.87 and standard deviation of 6.84.  
