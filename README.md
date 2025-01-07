@@ -45,8 +45,8 @@ In the EDA phase:
 - Out of 17 features, five key variables were identified: **BMI, age, general health, physical health, and mental health**.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="images/image2.png" alt="Graph Example" width="500">
-  <img src="images/image3.png" alt="Graph Example" width="500">
+  <img src="images/image2.png" alt="Graph Example" width="500" height="500">
+  <img src="images/image3.png" alt="Graph Example" width="500" height="500">
   <img src="images/image4.png" alt="Graph Example" width="500">
   <img src="images/image5.png" alt="Graph Example" width="500">
 </div>
