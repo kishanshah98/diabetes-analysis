@@ -57,10 +57,12 @@ In the EDA phase:
 2. Age follows a **gamma distribution**, skewed towards older age categories.  
 3. Mental and physical health data align with **Poisson distributions** due to count-based data.
 
-![Graph Example](images/image6.png)
-![Graph Example](images/image7.png)
-![Graph Example](images/image8.png)
-![Graph Example](images/image9.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="images/image2.png" alt="Graph Example" width="500" height="500">
+  <img src="images/image3.png" alt="Graph Example" width="500" height="500">
+  <img src="images/image4.png" alt="Graph Example" width="500" height="250">
+  <img src="images/image5.png" alt="Graph Example" width="500" height="250">
+</div>
 
 ---
 
@@ -71,7 +73,7 @@ In the EDA phase:
   - One-way ANOVA: BMI significantly differs across levels of general, physical, and mental health.  
   - Two-way ANOVA: Significant interaction between general and physical health on BMI.  
 
-![ANOVA Visualization](images/image10)
+![ANOVA Visualization](images/image10.png)
 
 ---
 
