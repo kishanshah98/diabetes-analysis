@@ -47,8 +47,8 @@ In the EDA phase:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="images/image2.png" alt="Graph Example" width="500" height="500">
   <img src="images/image3.png" alt="Graph Example" width="500" height="500">
-  <img src="images/image4.png" alt="Graph Example" width="500" height="300">
-  <img src="images/image5.png" alt="Graph Example" width="500" height="300">
+  <img src="images/image4.png" alt="Graph Example" width="500" height="250">
+  <img src="images/image5.png" alt="Graph Example" width="500" height="250">
 </div>
 
 
