@@ -3,7 +3,7 @@
 ## Project Overview
 This project explores the relationships between various health factors and the prevalence of diabetes in a dataset with over 70,000 observations. Key health variables such as BMI, age, and general health are analyzed to identify predictors for diabetes onset and guide preventive strategies.
 
-![Project Overview Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5896cf7-e3d0-41ee-9de5-8a038eaa3ec7/de18694f-ab66-4612-ad1b-bc9996a4f34f/images.jpg)
+![Project Overview Image](/images/image1.jpg)
 
 ---
 
