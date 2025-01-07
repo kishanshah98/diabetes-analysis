@@ -3,7 +3,7 @@
 ## Project Overview
 This project explores the relationships between various health factors and the prevalence of diabetes in a dataset with over 70,000 observations. Key health variables such as BMI, age, and general health are analyzed to identify predictors for diabetes onset and guide preventive strategies.
 
-![Project Overview Image](/images/image1.jpg)
+<img src="images/image1.jpg" alt="Project Overview Image" width="400">
 
 ---
 
@@ -73,7 +73,7 @@ In the EDA phase:
   - One-way ANOVA: BMI significantly differs across levels of general, physical, and mental health.  
   - Two-way ANOVA: Significant interaction between general and physical health on BMI.  
 
-![ANOVA Visualization](images/image10.png)
+<img src="images/image10.png" alt="ANOVA Visualization" width="400">
 
 ---
 
