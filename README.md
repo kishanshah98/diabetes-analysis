@@ -42,14 +42,22 @@ The rising prevalence of diabetes poses a significant public health challenge, m
 ## Exploratory Data Analysis
 In the EDA phase:  
 - **Correlation plots** and **Random Forest Classification** were used for feature selection.  
-- Out of 17 features, five key variables were identified: **BMI, age, general health, physical health, and mental health**.  
+- Out of 17 features, five key variables were identified: **BMI, age, general health, physical health, and mental health**.
+
+![Graph Example](images/image2.png)
+![Graph Example](images/image3.png)
+![Graph Example](images/image4.png)
+![Graph Example](images/image5.png)
 
 ### Observations:
 1. BMI follows a **normal distribution** with a mean of 27.87 and standard deviation of 6.84.  
 2. Age follows a **gamma distribution**, skewed towards older age categories.  
-3. Mental and physical health data align with **Poisson distributions** due to count-based data.  
+3. Mental and physical health data align with **Poisson distributions** due to count-based data.
 
-![Correlation Plot](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5896cf7-e3d0-41ee-9de5-8a038eaa3ec7/61e1b407-6f78-49fa-935d-5a6480c89a5b/Screenshot_2024-09-10_at_5.30.40_PM.png)
+![Graph Example](images/image6.png)
+![Graph Example](images/image7.png)
+![Graph Example](images/image8.png)
+![Graph Example](images/image9.png)
 
 ---
 
@@ -60,7 +68,7 @@ In the EDA phase:
   - One-way ANOVA: BMI significantly differs across levels of general, physical, and mental health.  
   - Two-way ANOVA: Significant interaction between general and physical health on BMI.  
 
-![ANOVA Visualization](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5896cf7-e3d0-41ee-9de5-8a038eaa3ec7/05b4f181-d108-48c3-8b11-080d21c2d1d3/Screenshot_2024-09-10_at_5.31.19_PM.png)
+![ANOVA Visualization](images/image10)
 
 ---
 
