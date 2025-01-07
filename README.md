@@ -71,7 +71,8 @@ Logit(P(Diabetes)) = -6.79 + (0.23 * Age) + (0.09 * BMI) + (0.72 * GenHlth)
 
 ### Evaluation:
 **Confusion Matrix**:
-[[5062 2028] [1840 5209]]
+[[5062 2028]
+[1840 5209]]
 
 - **Metrics**:
 - Accuracy: **79%**
