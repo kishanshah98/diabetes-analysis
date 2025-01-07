@@ -58,10 +58,10 @@ In the EDA phase:
 3. Mental and physical health data align with **Poisson distributions** due to count-based data.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="images/image2.png" alt="Graph Example" width="500" height="500">
-  <img src="images/image3.png" alt="Graph Example" width="500" height="500">
-  <img src="images/image4.png" alt="Graph Example" width="500" height="250">
-  <img src="images/image5.png" alt="Graph Example" width="500" height="250">
+  <img src="images/image6.png" alt="Graph Example" width="500" height="500">
+  <img src="images/image7.png" alt="Graph Example" width="500" height="500">
+  <img src="images/image8.png" alt="Graph Example" width="500" height="250">
+  <img src="images/image9.png" alt="Graph Example" width="500" height="250">
 </div>
 
 ---
